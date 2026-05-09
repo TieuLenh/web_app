@@ -1,10 +1,10 @@
 package backend.webapp.models;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+// import jakarta.persistence.Entity;
+// import jakarta.persistence.Table;
 
-@Entity
-@Table(name = "users")
+// @Entity
+// @Table(name = "users")
 public class User {
     
 }
