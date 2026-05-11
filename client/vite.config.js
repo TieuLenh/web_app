@@ -40,6 +40,8 @@ export default defineConfig({
             '@utils': '/src/utils',
             '@assets': '/src/assets',
             '@forms': '/src/forms',
+            '@styles': '/src/styles',
+            '@pages': '/src/pages',
         }
     },
 

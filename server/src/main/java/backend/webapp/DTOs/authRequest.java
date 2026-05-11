@@ -1,6 +1,6 @@
 package backend.webapp.DTOs;
 
-public class authRequest {
+public class AuthRequest {
     private String email;
     private String password;
 
